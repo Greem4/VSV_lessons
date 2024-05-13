@@ -313,3 +313,5 @@ _Четные числа: 50_
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../9/Sistemy-kontrolya-versij-Git-Github.md)

@@ -143,3 +143,5 @@ order by first_name, id limit 3 offset 0;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../96/Vidy-otnoshenij-v-BD.md)

@@ -136,3 +136,5 @@ _OutputStream_ и _Writer_ – классы, пишущие в ресурс. О�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../32/Rabota-s-fajlami-CHast-I.md)

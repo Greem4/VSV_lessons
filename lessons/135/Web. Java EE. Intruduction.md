@@ -202,3 +202,6 @@ JSTL - более продвинутая спецификация, расшир�
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../136/HTTP.%20Stateful%20and%20Stateless.%20Request%20and%20Response.md)

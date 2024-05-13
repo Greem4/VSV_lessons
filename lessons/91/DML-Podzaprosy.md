@@ -151,3 +151,5 @@ Male | Female
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../92/DML-INSERT-i-UPDATE.md)

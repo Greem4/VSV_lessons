@@ -522,3 +522,6 @@ Statement'ы и ResultSet'ы.
 
 
 
+
+
+[Next Lesson](../130/PreparedStatement.%20SQL%20injection.md)

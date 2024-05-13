@@ -112,3 +112,5 @@ _Опциональное условие_: замените _ArrayList_ на _Ve
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../38/Mehanizmy-sravneniya-Comparable-i-Comparator.md)

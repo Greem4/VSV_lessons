@@ -197,3 +197,5 @@ map.put("1", new Object()); // мы добавляем свой объект, н
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../77/Mnogopotochnost-javautilconcurrent-Future-CompletableFuture.md)

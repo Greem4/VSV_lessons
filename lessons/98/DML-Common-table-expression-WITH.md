@@ -150,3 +150,5 @@ CTE предоставляет достаточно удобный механи�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../99/DDL-CREATE-Sozdanie-tablic.md)

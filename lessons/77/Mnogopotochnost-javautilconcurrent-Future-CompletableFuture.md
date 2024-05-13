@@ -227,3 +227,5 @@ CompletableFuture.allOf(
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../78/Mnogopotochnost-CHto-dalshe.md)

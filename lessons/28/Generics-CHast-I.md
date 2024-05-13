@@ -187,3 +187,5 @@ _public class Generic1<T extends Number> {…}_
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../29/Generics-CHast-II.md)

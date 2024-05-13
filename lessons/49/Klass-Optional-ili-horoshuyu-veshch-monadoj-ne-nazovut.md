@@ -368,3 +368,5 @@ _«Это %тип животного%, он (она) говорит %резул�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../50/Nemnogo-o-Stream-API-I-mnogo-o-smezhnoj-terminologii.md)

@@ -245,3 +245,5 @@ select birth_date, id, id from passenger;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../86/DML-Blok-WHERE.md)

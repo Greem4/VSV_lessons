@@ -216,3 +216,5 @@ drop database test_db;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../81/Relyacionnye-bazy-dannyh-Shemy.md)

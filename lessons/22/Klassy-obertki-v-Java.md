@@ -147,3 +147,5 @@ _byte b = i.byteValue(); //OK_
 Мой тг: https://t.me/ironicMotherfucker
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../23/Pamyat-v-JVM.md)

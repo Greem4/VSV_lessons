@@ -380,3 +380,5 @@ _4\. Действие с узлом (проверка условия поиск�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../43/Map-Pervoe-znakomstvo.md)

@@ -283,3 +283,6 @@ HTTP закрывает большинство типовых задач, но, 
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../137/HTTP%20methods.md)

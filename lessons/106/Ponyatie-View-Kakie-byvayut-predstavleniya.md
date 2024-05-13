@@ -177,3 +177,5 @@ refresh materialized view male_adult_passengers_full_name_materialized
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../107/TCL-Tranzakcii-ACID.md)

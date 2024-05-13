@@ -293,3 +293,5 @@ Metanit в данном разделе дает более поверхност�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../57.3/Stream-API-collect-Collector-Collectors-Praktika.md)

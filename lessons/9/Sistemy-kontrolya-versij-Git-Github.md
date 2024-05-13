@@ -198,3 +198,5 @@ _Опубликуйте на гитхабе задачу из урока Кла�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../10/Polya-klassa-Klyuchevoe-slovo-static-Konstanty.md)

@@ -140,3 +140,5 @@ DBA, в свою очередь, обычно не так глубоко пог�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../71/Mnogopotochnost-javautilconcurrent-Potokobezopasnye-kollekcii.md)

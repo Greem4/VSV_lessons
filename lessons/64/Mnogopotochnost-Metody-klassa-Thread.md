@@ -295,3 +295,5 @@ _int getPriority()_
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../65/Mnogopotochnost-javautilconcurrent-Atomic-tipy.md)

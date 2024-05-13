@@ -1,5 +1,6 @@
 import os
 import re
+import urllib.parse
 
 # Укажите корневой путь к вашим урокам
 root_path = '/home/greem/yaDisk/VSV_lessons/lessons/'
@@ -8,13 +9,15 @@ root_path = '/home/greem/yaDisk/VSV_lessons/lessons/'
 lesson_folders = sorted([d for d in os.listdir(root_path) if os.path.isdir(os.path.join(root_path, d))], key=lambda x: float('0' + re.sub('[^0-9.]', '', x)))
 
 # Функция для создания Markdown ссылки
-def create_markdown_link(target_md_file):
+def create_markdown_link(target_md_file, base_folder):
+    # Энкодим имя файла для URL, чтобы обработать пробелы и специальные символы
+    target_md_file_encoded = urllib.parse.quote(target_md_file)
     # Создаем Markdown ссылку
-    return f"\n\n[Next Lesson](../{target_md_file})\n"
+    return f"\n\n[Next Lesson](../{base_folder}/{target_md_file_encoded})\n"
 
 # Проверяем, существует ли ссылка на следующий урок в файле
-def link_exists(md_file_content, target_md_file):
-    link = create_markdown_link(target_md_file).strip()
+def link_exists(md_file_content, target_md_file, base_folder):
+    link = create_markdown_link(target_md_file, base_folder).strip()
     return link in md_file_content
 
 # Обходим каждую папку и добавляем ссылку на файл в следующей папке
@@ -29,10 +32,11 @@ for i, folder in enumerate(lesson_folders[:-1]):  # Последняя папк�
         next_md_files = [f for f in os.listdir(os.path.join(root_path, next_folder)) if f.endswith('.md')]
         if next_md_files:
             # Создаем путь к следующему .md файлу
-            next_md_file = os.path.join(next_folder, next_md_files[0])
+            next_md_file = next_md_files[0]
             # Читаем текущий .md файл и проверяем, существует ли уже ссылка
             with open(current_md_file_path, 'r+') as md_file:
                 content = md_file.read()
-                if not link_exists(content, next_md_file):
+                if not link_exists(content, next_md_file, next_folder):
                     # Если ссылки нет, добавляем ее в конец файла
-                    md_file.write(create_markdown_link(next_md_file))
+                    md_file.seek(0, os.SEEK_END)  # Перемещаем указатель в конец файла
+                    md_file.write(create_markdown_link(next_md_file, next_folder))

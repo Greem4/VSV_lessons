@@ -149,3 +149,5 @@ _}_
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../3/Preobrazovanie-tipov-uslovnye-konstrukcii-i-nemnogo-o-strokah.md)

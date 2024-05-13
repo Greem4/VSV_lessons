@@ -109,3 +109,5 @@ GC использует два подхода, чтобы определить, 
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../25/Vlozhennye-klassy.md)

@@ -664,3 +664,6 @@ JUnit - точно не самый сложный фреймворк в Java. И
 > Мой тг: https://t.me/ironicMotherfucker
 > 
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../126/Mock%20object.%20Mockito.md)

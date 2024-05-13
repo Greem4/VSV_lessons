@@ -115,3 +115,5 @@ Summary: 90 years, 5 months, 22 days, 17 hours 24 minutes 4 seconds
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../35/Kompilyaciya-i-interpretaciya-v-Java.md)

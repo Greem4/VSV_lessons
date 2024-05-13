@@ -115,3 +115,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../34/Rabota-s-datami-i-vremenem.md)

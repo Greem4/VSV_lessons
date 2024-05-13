@@ -200,3 +200,5 @@ Stream.iterate(0, i -> i < arr.length, i -> ++i)
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 Дорогу осилит идущий!
+
+[Next Lesson](../53/Stream-Vidy-operacij.md)

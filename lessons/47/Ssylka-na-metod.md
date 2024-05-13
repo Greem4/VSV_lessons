@@ -345,3 +345,5 @@ SthFunctionalInterface  f = (s1, s2) -> s1.formatted(str, s2);
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../48/Funkcionalnoe-programmirovanie-v-Java.md)

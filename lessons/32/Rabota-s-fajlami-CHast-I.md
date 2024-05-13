@@ -68,3 +68,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../33/Rabota-s-fajlami-CHast-II.md)

@@ -98,3 +98,5 @@ _public static void doSth() {...} -> public static_ **_synchronized_** _void doS
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../62/Metody-Object-dlya-mnogopotochnosti.md)

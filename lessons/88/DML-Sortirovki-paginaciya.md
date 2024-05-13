@@ -173,3 +173,5 @@ limit 3 offset 0;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../89/DML-Agregatnye-funkcii-i-GROUP-BY.md)

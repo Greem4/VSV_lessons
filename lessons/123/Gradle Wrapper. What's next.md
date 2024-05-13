@@ -214,3 +214,6 @@ Gradle - из-за этого тяжело давать информацию, к
 > Мой тг: https://t.me/ironicMotherfucker
 > 
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../124/Unit-testing%20concept.md)

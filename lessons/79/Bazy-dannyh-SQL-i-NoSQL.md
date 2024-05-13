@@ -178,3 +178,5 @@ NoSQL объединяет под собой нереляционные БД. О
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../80/Ustanovka-PostgreSQL-PgAdmin-i-instrumenty-vizualizacii-BD-Sozdanie-i-udalenie-BD.md)

@@ -170,3 +170,6 @@ try (Connection connection = getConnection();
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../133/Connection%20Pool.%20HikariCP.md)

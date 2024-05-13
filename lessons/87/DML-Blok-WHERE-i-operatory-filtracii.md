@@ -223,3 +223,5 @@ not ('1989-07-02'::date, '1990-07-02') overlaps ('1990-07-02', '1993-07-02')
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../88/DML-Sortirovki-paginaciya.md)

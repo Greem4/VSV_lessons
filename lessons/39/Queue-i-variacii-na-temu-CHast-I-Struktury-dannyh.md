@@ -141,3 +141,5 @@ Queue и вариации на тему. Часть I. Структуры дан
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../40/Queue-i-variacii-na-temu-CHast-II-Implementacii-v-Java.md)

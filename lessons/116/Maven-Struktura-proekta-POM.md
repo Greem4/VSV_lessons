@@ -213,3 +213,5 @@ mvn clean compile exec:java
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../117/Maven-ZHiznennyj-cikl-Plaginy.md)

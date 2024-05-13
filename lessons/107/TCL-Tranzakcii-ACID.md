@@ -198,3 +198,5 @@ commit;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../108/TCL-Problemy-tranzakcij-Urovni-izolyacii.md)

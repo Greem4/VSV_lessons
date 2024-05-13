@@ -116,3 +116,5 @@ _Подумать, где стоило бы использовать цикл do
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../5/Massivy-I-snova-cikly.md)

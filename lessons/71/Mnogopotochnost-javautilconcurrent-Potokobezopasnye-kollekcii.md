@@ -140,3 +140,5 @@ _ConcurrentSkipListSet_ – реализация, работающая на ба
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../72/Mnogopotochnost-javautilconcurrent-Blokiruyushchie-i-neblokiruyushchie-ocheredi.md)

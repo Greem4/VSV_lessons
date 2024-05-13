@@ -208,3 +208,5 @@ _count()_ – терминальная операция, возвращающа�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../54/Stream-API-Promezhutochnye-operacii.md)

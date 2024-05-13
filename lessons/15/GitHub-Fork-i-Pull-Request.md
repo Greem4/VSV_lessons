@@ -73,3 +73,5 @@ GitHub. Fork и Pull Request
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../16/Abstraktnye-klassy-i-interfejsy.md)

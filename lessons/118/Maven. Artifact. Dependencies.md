@@ -298,3 +298,6 @@ Maven предоставляет соответствующий механизм
 > Мой тг: https://t.me/ironicMotherfucker
 > 
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../119/Maven.%20What%27s%20next.md)

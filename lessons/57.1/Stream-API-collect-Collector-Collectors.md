@@ -380,3 +380,5 @@ Map<String, Long> usersAmountByName = userStream1.collect(
 ### Продолжение
 
 [https://telegra.ph/Stream-API-collect-Collector-Collectors-CHast-II-03-17](/Stream-API-collect-Collector-Collectors-CHast-II-03-17)
+
+[Next Lesson](../57.2/Stream-API-collect-Collector-Collectors-CHast-II.md)

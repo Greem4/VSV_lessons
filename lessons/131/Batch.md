@@ -232,3 +232,6 @@ JDBC имеет отдельный API для работы с транзакци
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../132/JDBC.%20Tranastions.md)

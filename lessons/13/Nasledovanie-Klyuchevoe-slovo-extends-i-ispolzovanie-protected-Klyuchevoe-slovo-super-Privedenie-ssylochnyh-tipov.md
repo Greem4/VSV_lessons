@@ -179,3 +179,5 @@ public class SubClass extends SuperClass {
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../14/Polimorfizm-Pereopredelenie-metodov-Vidy-polimorfizma-i-svyazyvanie.md)

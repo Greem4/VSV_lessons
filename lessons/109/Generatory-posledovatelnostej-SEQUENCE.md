@@ -130,3 +130,5 @@ select setval('limited_sequence', 140, true);
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../110/PLpgSQL-Funkcii-i-procedury.md)

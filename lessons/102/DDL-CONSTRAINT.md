@@ -202,3 +202,5 @@ alter table t1 add constraint example_foreign_key foreign key (b, c) references 
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../103/DDL-Indeksy-Sostavnye-indeksy-Unikalnye-indeksy.md)

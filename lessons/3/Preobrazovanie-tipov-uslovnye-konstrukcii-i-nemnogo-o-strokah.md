@@ -160,3 +160,5 @@ _Также минимальное и максимальное значение 
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../4/Cikly.md)

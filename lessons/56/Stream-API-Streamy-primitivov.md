@@ -183,3 +183,5 @@ LongStream.of(1, 2)
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../57.1/Stream-API-collect-Collector-Collectors.md)

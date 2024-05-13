@@ -245,3 +245,5 @@ _Примечание_: для _Задач 1_ и _2_ в рамках отлад�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../76/Mnogopotochnost-Problemy-mnogopotochnosti.md)

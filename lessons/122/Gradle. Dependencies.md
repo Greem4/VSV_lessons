@@ -176,3 +176,6 @@ dependencies {
 > Мой тг: https://t.me/ironicMotherfucker
 > 
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../123/Gradle%20Wrapper.%20What%27s%20next.md)

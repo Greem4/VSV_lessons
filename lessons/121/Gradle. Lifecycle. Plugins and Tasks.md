@@ -379,3 +379,6 @@ tasks.register('customTask') {
 > Мой тг: https://t.me/ironicMotherfucker
 > 
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../122/Gradle.%20Dependencies.md)

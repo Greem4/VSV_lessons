@@ -112,3 +112,5 @@ select count(*), male from passenger where last_purchase is not null group by ma
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../90/DML-HAVING-HAVING-i-WHERE.md)

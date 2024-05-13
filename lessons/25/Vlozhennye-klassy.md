@@ -145,3 +145,5 @@ public void doSth() {
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../26/Klassy-dlya-rabot-so-strokami.md)

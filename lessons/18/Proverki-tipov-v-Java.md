@@ -85,3 +85,5 @@ _sthClass.getClass().equals(SthClass.class); //true_
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../19/Metody-klassa-Object.md)

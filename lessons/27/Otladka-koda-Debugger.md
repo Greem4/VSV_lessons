@@ -128,3 +128,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../28/Generics-CHast-I.md)

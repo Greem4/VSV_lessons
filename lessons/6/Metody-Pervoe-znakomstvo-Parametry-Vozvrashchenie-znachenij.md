@@ -364,3 +364,5 @@ _Рекомендую попробовать декомпозировать и �
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../7/Metody-Varargs-Peregruzka-metodov-Pervoe-znakomstvo-s-rekursiej.md)

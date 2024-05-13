@@ -122,3 +122,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../46/Funkcionalnye-interfejsy-i-lyambda-vyrazheniya.md)

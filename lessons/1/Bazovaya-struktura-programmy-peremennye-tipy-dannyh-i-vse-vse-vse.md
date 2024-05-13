@@ -143,3 +143,5 @@ _Усложнение для внимательных: вывести ваше �
 Канал: [https://t.me/+relA0-qlUYAxZjI6](https://t.me/+relA0-qlUYAxZjI6)
 
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
+
+[Next Lesson](../2/Konsolnyj-vvodvyvod-Arifmeticheskie-operacii-operacii-prisvoeniya-Uslovnye-vyrazheniya.md)

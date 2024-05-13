@@ -201,3 +201,5 @@ private final static Logger log = LogManager.getLogger(Main.class);
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../115/Sistemy-sborok-Pervoe-znakomstvo.md)

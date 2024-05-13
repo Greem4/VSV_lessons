@@ -113,3 +113,5 @@ drop index ix_passenger_last_purchase_hash;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../106/Ponyatie-View-Kakie-byvayut-predstavleniya.md)

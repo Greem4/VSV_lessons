@@ -258,3 +258,5 @@ public int doSth(int number) {
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../21/Neizmenyaemye-obekty.md)

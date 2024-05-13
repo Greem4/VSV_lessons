@@ -110,3 +110,5 @@ SQL – очень обширная и разносторонняя тема. С
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../83/DDL-Tipy-dannyh.md)

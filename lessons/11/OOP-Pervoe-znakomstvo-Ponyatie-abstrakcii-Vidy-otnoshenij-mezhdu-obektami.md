@@ -88,3 +88,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../12/Inkapsulyaciya-Pakety-Modifikatory-dostupa-Gettery-i-Settery.md)

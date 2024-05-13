@@ -469,3 +469,5 @@ Mockito - достаточно многофункциональный инстр
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+[Next Lesson](../127/Mockito.%20Additional%20features.md)

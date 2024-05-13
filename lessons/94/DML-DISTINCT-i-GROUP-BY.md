@@ -156,3 +156,5 @@ select distinct on (first_name, last_name) first_name, last_name from passenger;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../95/DML-UNION.md)

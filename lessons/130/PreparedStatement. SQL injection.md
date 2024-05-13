@@ -264,3 +264,5 @@ select * from passenger where first_name = 'Ivan' and last_name = 'Ivanov'' or '
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+[Next Lesson](../131/Batch.md)

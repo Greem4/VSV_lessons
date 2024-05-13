@@ -269,3 +269,5 @@ limit 1 offset 0;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../98/DML-Common-table-expression-WITH.md)

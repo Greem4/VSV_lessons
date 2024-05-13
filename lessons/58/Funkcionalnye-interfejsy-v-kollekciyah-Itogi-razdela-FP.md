@@ -286,3 +286,5 @@ sumMap.merge(someKey, newSum, (oSum, nSum) -> oSum + nSum);
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../59/Mnogopotochnost-Vvedenie.md)

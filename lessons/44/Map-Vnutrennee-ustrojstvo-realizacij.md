@@ -118,3 +118,5 @@ _LinkedHashMap_, являясь прямым наследником _HashMap_, �
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../45/Slozhnost-algoritmov-Pervoe-znakomstvo.md)

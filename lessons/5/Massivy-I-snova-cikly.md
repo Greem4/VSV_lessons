@@ -130,3 +130,5 @@ _Вывести в консоль сумму всех элементов пол�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../6/Metody-Pervoe-znakomstvo-Parametry-Vozvrashchenie-znachenij.md)

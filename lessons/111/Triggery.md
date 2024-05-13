@@ -199,3 +199,5 @@ alter trigger log_t1_trigger on t1 rename to log_t1_tg;
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../112/CHto-dalshe-2.md)

@@ -351,3 +351,5 @@ ream.of(1, 2, 3, 4)
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../55/Stream-API-Terminalnye-operacii.md)

@@ -96,3 +96,5 @@ P.S. Все еще ожидается велосипед.
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../61/Mnogopotochnost-Sinhronizaciya-potokov-Ponyatie-monitora-Klyuchevoe-slovo-synchronized.md)

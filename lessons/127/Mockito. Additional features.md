@@ -701,3 +701,6 @@ legacy-кода. Если у вас есть необходимость восп
 > Мой тг: https://t.me/ironicMotherfucker
 >
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../128/JDBC%20introduction.%20Connection.md)

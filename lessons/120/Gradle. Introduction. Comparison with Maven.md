@@ -243,3 +243,6 @@ Maven. Минусы же, заключаются в более высоком п
 > Мой тг: https://t.me/ironicMotherfucker
 > 
 > **Дорогу осилит идущий!**
+
+
+[Next Lesson](../121/Gradle.%20Lifecycle.%20Plugins%20and%20Tasks.md)

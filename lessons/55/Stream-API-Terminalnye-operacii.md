@@ -309,3 +309,5 @@ _Function.identity()_ – статический метод в функцион�
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../56/Stream-API-Streamy-primitivov.md)

@@ -159,3 +159,5 @@ select * from passenger where (first_name = 'Ivan' and birth_date < '2000-01-01'
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../87/DML-Blok-WHERE-i-operatory-filtracii.md)

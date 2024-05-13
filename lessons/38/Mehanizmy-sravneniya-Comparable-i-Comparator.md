@@ -80,3 +80,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../39/Queue-i-variacii-na-temu-CHast-I-Struktury-dannyh.md)

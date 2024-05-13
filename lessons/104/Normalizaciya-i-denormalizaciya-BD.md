@@ -194,3 +194,5 @@
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 _Дорогу осилит идущий!_
+
+[Next Lesson](../105/DDL-Klasterizovannye-indeksy-Sintaksis-dlya-raboty-s-indeksami.md)

@@ -173,3 +173,5 @@ _Spliterator_, в свою очередь, является следующим �
 Мой тг: [https://t.me/ironicMotherfucker](https://t.me/ironicMotherfucker)
 
 Дорогу осилит идущий!
+
+[Next Lesson](../52/Stream-API-Sposoby-sozdaniya-Streama.md)
