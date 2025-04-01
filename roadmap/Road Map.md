@@ -91,7 +91,7 @@
 
 **14.** [Принципы ООП. Полиморфизм](https://telegra.ph/Polimorfizm-Pereopredelenie-metodov-Vidy-polimorfizma-i-svyazyvanie-11-25)
 
-SOLID и другие принципы ОО-дизайна
+**159.** [SOLID и другие принципы ОО-дизайна](https://github.com/KFalcon2022/lessons/blob/master/lessons/oop/159/SOLID.%20Principles%20of%20Object%20Oriented%20Design.md)
 
 ## Collections Framework
 
@@ -340,11 +340,20 @@ SOLID и другие принципы ОО-дизайна
 
 **143.** [Servlet API. Структура и жизненный цикл сервлетного приложения. Поиск main()](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/143/Servlet%20API.%20Servlet%20app%20lifecycle.md)
 
-- Servlet API. ServletConfig. ServletContext. Знакомство с web.xml
-- Servlet API. Фильтры и цепочка фильтров. Управление состоянием ответа
-- Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении
-- Знакомство с JSP и JSTL
-- Виды аутентификации
+**146.** [Servlet API. Знакомство с web.xml](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/146/Servlet%20API.%20web.xml.md)
+
+**147.** [Servlet API. ServletConfig. ServletContext. Слушатели событий](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/147/Servlet%20API.%20ServletConfig.%20ServletContext.%20Listeners.md)
+
+**148.** [Servlet API. Фильтры и цепочка фильтров. Модификация запроса и ответа](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/148/Servlet%20API.%20Filter.%20Filter%20chain.%20Request%20and%20response%20modification.md)
+
+**149.** [Виды аутентификации](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/149/Authentification%20Types.md)
+
+**150.** [Servlet API. Cookies. Сессия. Аутентификация в сервлетном приложении](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/150/Servlet%20API.%20Cookies.%20Session.%20Session-based%20auth.md)
+
+**151.** [Знакомство с JSP и JSTL. Перенаправление запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/151/JSP.%20JSTL.%20Redirects.md)
+
+**152.** [Сценарии обработки ошибок](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/152/Exception%20handling.md)
+
 - (Дополнительно) Асинхронная обработка сервлетов
 
 ## Системы контроля версий и git. GitHub
@@ -357,18 +366,30 @@ SOLID и другие принципы ОО-дизайна
 
 ## JPA и Hibernate
 
-- ORM и JPA. Что такое Hibernate
-- Подключение Hibernate к проекту. Конфигурация
-- _Entity_
-- _EntityManager_ и _EntityManagerFactory_. Аналоги в Hibernate
-- Запросы в Hibernate. JPQL и HQL
-- Criteria API
-- Жизненный цикл Entity
-- Работа с транзакциями. Понятие Propagation
-- Отношения в Hibernate. Проблема N+1\. _LazyInitializationException_
-- Кэширование в Hibernate. Кэш первого уровня или Persistence Context
-- Кэширование в Hibernate. Кэш второго уровня. Кэш запросов
-- Стратегии наследования в Hibernate
+**153.** [ORM и JPA. Что такое Hibernate](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/153/ORM.%20JPA.%20Hibernate.md)
+
+**154.** [Подключение Hibernate к проекту. Конфигурация](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/154/Hibernate%20configuration.md)
+
+**155.** [JPA Entity](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/155/JPA%20Entity.md) 
+
+**156.** [EntityManagerFactory. EntityManager. Жизненный цикл Entity](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/156/EntityManagerFactory.%20EntityManager.%20Entity%20lifecycle.md)
+
+**157.** [Примеры работы с EntityManager и перспективы развития](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/157/EntityManager.%20Examples.md)
+
+**158.** [Отношения в JPA. Ленивая загрузка. Проблема N+1](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/158/JPA%20Relationships.md)
+
+**161.** [JPQL](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/161/JPQL.md)
+
+**162.** [Criteria API. Основной API](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/162/Criteria%20API.%20Main%20API.md)
+
+**163.** [Criteria API. Типобезопасность и метамодель](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/163/Criteria%20API.%20Type%20safety%20and%20Metamodel.md)
+
+**164.** [Кэш первого уровня или Persistence Context](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/164/Persistence%20Context.md)
+
+**165.** [JPA и Hibernate. Кэш второго уровня. Кэш запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/165/Hibernate%20second%20level%20cache.%20Query%20cache.md)
+
+**166.** [Наследование в JPA](https://github.com/KFalcon2022/lessons/blob/master/lessons/orm-and-jpa/166/JPA%20inheritance.md)
+
 - EntityGraph
 
 ## Spring Framework
@@ -446,7 +467,8 @@ _Будет дополнено_
 
 **144.** [JSON](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/144/JSON.md)
 
-- Паттерны проектирования
+**160.** [Паттерны проектирования](https://github.com/KFalcon2022/lessons/blob/master/lessons/out-of-classification/160/Design%20patterns.md)
+
 - Docker
 - Lombok
 - Docker Compose и k8s
@@ -458,7 +480,8 @@ _Будет дополнено_
 
 ## Pet Projects
 
-[Система распределения места в общежитиях](https://github.com/KFalcon2022/lessons/blob/master/lessons/pet-projects/Pet%20project.md)
+- [Система распределения места в общежитиях](https://github.com/KFalcon2022/lessons/blob/master/lessons/pet-projects/Pet%20project.md)
+- [Приложения для регистрации авиабилетов](https://github.com/KFalcon2022/servlet-ticket-booking)
 
 Любые замечания и предложения приветствуются. Более, чем вероятно, что план, описанный одним человеком, не будет
 идеальным и требует корректировки. Кроме того, вполне возможно, что были опущены темы, очевидные практикующему

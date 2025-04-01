@@ -119,7 +119,8 @@ public List<Passenger> findByFullName(String firstName,String lastName) {
         statement.setString(2, lastName);
 
         ResultSet result = statement.executeQuery();
-
+        
+        // Некий самописный класс-маппер, формирующий объект Passenger на базе ResultSet
         return mapper.map(result);
     } catch (SQLException e) {
         throw new RuntimeException(e);
@@ -256,6 +257,9 @@ select * from passenger where first_name = 'Ivan' and last_name = 'Ivanov'' or '
 - Покройте новые методы юнит-тестами.
 
 Ветка для PR: `for-pr`.
+
+**Разбор практики для этого урока**:
+[ссылка](https://github.com/KFalcon2022/jdbc-practical-tasks/commit/b0ec97eafeecc79e9e4fc3f4b1449ce2a17c2bd5)
 
 > Если что-то непонятно или не получается – welcome в комменты к посту или в лс:)
 >
